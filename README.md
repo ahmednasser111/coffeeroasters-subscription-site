@@ -50,4 +50,4 @@ I will now be focusing on learning JS frameworks.
 
 ## Author
 
-- Frontend Mentor - [@AgataLiberska](https://www.frontendmentor.io/profile/ahmednasser111)
+- Frontend Mentor - [@AhmedNasser](https://www.frontendmentor.io/profile/ahmednasser111)
