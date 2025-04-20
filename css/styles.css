@@ -1717,7 +1717,6 @@ ol, ul {
   .create-plan__form__options {
     display: -ms-grid;
     display: grid;
-    -ms-grid-columns: (1fr)[3];
         grid-template-columns: repeat(3, 1fr);
     -ms-grid-rows: 1fr;
         grid-template-rows: 1fr;
