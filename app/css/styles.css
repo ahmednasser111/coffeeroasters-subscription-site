@@ -655,7 +655,7 @@ ol, ul {
   max-width: 80rem;
   margin-bottom: 7.5rem;
   padding: 6.25rem 1.5rem;
-  background-image: url("/assets/home/mobile/image-hero-coffeepress.jpg");
+  background-image: url("../../assets/home/mobile/image-hero-coffeepress.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 0.625rem;
@@ -666,7 +666,7 @@ ol, ul {
   .hero {
     margin-bottom: 9rem;
     padding: 6.5rem 14.5rem 6.5rem 3.625rem;
-    background-image: url("/assets/home/tablet/image-hero-coffeepress.jpg");
+    background-image: url("../../assets/home/tablet/image-hero-coffeepress.jpg");
     text-align: left;
   }
 }
@@ -675,7 +675,7 @@ ol, ul {
   .hero {
     margin-bottom: 8.5rem;
     padding: 7.25rem 43.875rem 7.25rem 5.3125rem;
-    background-image: url("/assets/home/desktop/image-hero-coffeepress.jpg");
+    background-image: url("../../assets/home/desktop/image-hero-coffeepress.jpg");
   }
 }
 
@@ -1131,7 +1131,7 @@ ol, ul {
           align-items: center;
   padding: 7rem 1.5rem 5.5rem;
   border-radius: 0.625rem;
-  background-image: url("/assets/about/mobile/image-hero-whitecup.jpg");
+  background-image: url("../../assets/about/mobile/image-hero-whitecup.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center right;
@@ -1144,7 +1144,7 @@ ol, ul {
         -ms-flex-align: start;
             align-items: flex-start;
     padding: 7.375rem 3.625rem;
-    background-image: url("/assets/about/tablet/image-hero-whitecup.jpg");
+    background-image: url("../../assets/about/tablet/image-hero-whitecup.jpg");
     text-align: left;
   }
 }
@@ -1152,7 +1152,7 @@ ol, ul {
 @media (min-width: 64rem) {
   .about-hero {
     padding: 8.5rem 5.3125rem;
-    background-image: url("/assets/about/desktop/image-hero-whitecup.jpg");
+    background-image: url("../../assets/about/desktop/image-hero-whitecup.jpg");
   }
 }
 
@@ -1212,7 +1212,7 @@ ol, ul {
   height: 25rem;
   width: 100%;
   border-radius: 0.625rem;
-  background-image: url("/assets/about/mobile/image-commitment.jpg");
+  background-image: url("../../assets/about/mobile/image-commitment.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1221,14 +1221,14 @@ ol, ul {
   .about-commitment__img {
     height: 29.375rem;
     margin-bottom: 0;
-    background-image: url("/assets/about/tablet/image-commitment.jpg");
+    background-image: url("../../assets/about/tablet/image-commitment.jpg");
   }
 }
 
 @media (min-width: 64rem) {
   .about-commitment__img {
     height: 32.5rem;
-    background-image: url("/assets/about/desktop/image-commitment.jpg");
+    background-image: url("../../assets/about/desktop/image-commitment.jpg");
   }
 }
 
@@ -1305,7 +1305,7 @@ ol, ul {
   max-width: 21rem;
   margin-bottom: 4rem;
   border-radius: 0.625rem;
-  background-image: url("/assets/about/mobile/image-quality.jpg");
+  background-image: url("../../assets/about/mobile/image-quality.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1315,7 +1315,7 @@ ol, ul {
   .about-quality__img {
     height: 20rem;
     max-width: 40rem;
-    background-image: url("/assets/about/tablet/image-quality.jpg");
+    background-image: url("../../assets/about/tablet/image-quality.jpg");
   }
 }
 
@@ -1444,7 +1444,7 @@ ol, ul {
 .plan-hero {
   padding: 6.25rem 1.5rem 8.5rem;
   border-radius: 0.625rem;
-  background-image: url("/assets/plan/mobile/image-hero-blackcup.jpg");
+  background-image: url("../../assets/plan/mobile/image-hero-blackcup.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1454,7 +1454,7 @@ ol, ul {
 @media (min-width: 48rem) {
   .plan-hero {
     padding: 8rem 3.625rem 7.75rem;
-    background-image: url("/assets/plan/tablet/image-hero-blackcup.jpg");
+    background-image: url("../../assets/plan/tablet/image-hero-blackcup.jpg");
     text-align: left;
   }
 }
@@ -1462,7 +1462,7 @@ ol, ul {
 @media (min-width: 64rem) {
   .plan-hero {
     padding: 8.5rem 5.3125rem;
-    background-image: url("/assets/plan/desktop/image-hero-blackcup.jpg");
+    background-image: url("../../assets/plan/desktop/image-hero-blackcup.jpg");
   }
 }
 
@@ -1717,7 +1717,6 @@ ol, ul {
   .create-plan__form__options {
     display: -ms-grid;
     display: grid;
-    -ms-grid-columns: (1fr)[3];
         grid-template-columns: repeat(3, 1fr);
     -ms-grid-rows: 1fr;
         grid-template-rows: 1fr;
@@ -2186,4 +2185,3 @@ ol, ul {
     padding: 7.25rem 5.3125rem 6.25rem;
   }
 }
-/*# sourceMappingURL=styles.css.map */
